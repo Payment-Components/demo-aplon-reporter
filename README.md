@@ -1,4 +1,4 @@
-# aplonReported (SDK)
+# aplonReporter (SDK)
 aplonReporter is a Java SDK that provides provides an easy way to generate pretty PDF reports from a SWIFT MT Message.
 
 ### Usage 
