@@ -1,3 +1,7 @@
+<a id="logo" href="https://www.paymentcomponents.com" title="Payment Components" target="_blank">
+    <img loading="lazy" src="https://i.postimg.cc/yN5TNy29/LOGO-HORIZONTAL2.png" alt="Payment Components">
+</a>
+
 # aplonReporter (SDK)
 aplonReporter is a Java SDK that provides provides an easy way to generate pretty PDF reports from a SWIFT MT Message.
 
